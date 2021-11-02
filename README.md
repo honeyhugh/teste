@@ -1,2 +1,2 @@
 # Teste
- Repositório teste do curso
+ Repositório teste do curso.
